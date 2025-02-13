@@ -3,6 +3,8 @@ A Retrieval-Augmented Generation (RAG) system enhancing LLM responses with optim
 
 
 Features:
+
+
 Text Chunking: Implements various chunking strategies (fixed-length, semantic, recursive) for better retrieval.
 Vector Search: Uses FAISS and ChromaDB to store and retrieve relevant document chunks efficiently.
 Response Validation: Evaluates coherence, relevance, and readability to refine LLM outputs.
